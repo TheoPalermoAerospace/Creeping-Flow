@@ -1,6 +1,6 @@
 # Creeping Flow
 
-This brief tutorial is highly based on Prof. Dr. Rafael Gontijo YouTube class (see the link below), in which such problem is discussed and treated numerically using Fortran. The purpose of this repository, beside educational purposed, is to provide a solution for the same problem, but using C++ language.
+This brief tutorial is highly based on Prof. Dr. Rafael Gontijo YouTube class (see https://www.youtube.com/watch?v=QDOxT_DoxaM), in which such problem is discussed and treated numerically using Fortran. The purpose of this repository, beside educational purposed, is to provide a solution for the same problem, but using C++ language.
 
 Let a spherical body of radius $r$ and density $\rho_s$ be sedimenting in a viscous fluid. Assume that the fluid has density $\rho_f$ and viscosity $\eta$. The forces acting on the spherical body are the gravitational force ($F_g$) and the drag force ($D$) — which can be modeled by Stokes' drag — such that Newton’s second law in the $z$ direction is given by:
 
