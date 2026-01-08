@@ -22,7 +22,7 @@ $$ \underbrace{\left( \frac{m U_s}{6\pi \eta r^2} \right)}_{St} \frac{du_z}{dt^*
 
 where $St$ is referred to as the Stokes number. Therefore, we have:
 
-$$ St \frac{d}{dt^*} u_z = -1 - u_z $$
+$$ St \frac{du_z}{dt^*} = -1 - u_z $$
 
 Consider the initial conition $u_z(0) = 0$. The exact solution is given by
 
