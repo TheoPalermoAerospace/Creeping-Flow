@@ -18,7 +18,7 @@ $$ m \frac{d}{dt^*} \frac{u_z U_s^2}{r} = -\frac{4}{3}\pi r^3 \Delta \rho g - 6\
 
 Dividing by $6\pi \eta r U_s$, we can obtain:
 
-$$ \underbrace{\left( \frac{m U_s}{6\pi \eta r^2} \right)}_{St} \frac{du_z}{dt*} = - 1 - u_z $$
+$$ \underbrace{\left( \frac{m U_s}{6\pi \eta r^2} \right)}_{St} \frac{du_z}{dt^*} = - 1 - u_z $$
 
 where $St$ is referred to as the Stokes number. Therefore, we have:
 
